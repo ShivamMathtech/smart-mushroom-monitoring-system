@@ -8,7 +8,7 @@ An AI-powered IoT-based Smart Mushroom Farming System designed to automate and o
 - Computer Vision
 - Cloud Monitoring
 - AI Disease Detection
-
+![image](circuit.png)
 ---
 
 # Project Overview
